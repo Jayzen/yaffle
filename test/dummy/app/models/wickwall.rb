@@ -1,3 +1,3 @@
 class Wickwall < ApplicationRecord
-  acts_as_yaffle yaffle_text_field: :last_tweet
+  acts_as_yaffle
 end
